@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Baloo Bhai 2', cursive;
+    font-family: 'Mukta', sans-serif;
+    margin: 7%;
+    padding: 5%;
+
+}
+
+
+.img1 {
+    width: 80S%;
+    padding-left: 57%;
+}
+
+.img1 img {
+    width: 80%;
+    margin-top: -350px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange {
+    color: orange;
+}
+
+
+p {
+    font-size: 30px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: orangered;
+    font-weight: 700;
+    padding: 20px 40px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.img2 {
+    width: 80%;
+}
+
+.para2 {
+    font-size: 12px;
+
+}
+
+.about {
+
+    width: 80%;
+    margin-top: -1100px;
+    padding: 760Px;
+}
+
+.para3 {
+    font-size: 18px;
+}
+
+.img3 {
+    width: 300px;
+}
+
+.flaxible-continer {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.full {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px grey;
+    border-left: 8px solid orange;
+}
+
+#div1 {
+    border-left: 8px solid rgb(21, 78, 6);
+
+}
+
+#div2 {
+    border-left: 8px solid rgb(136, 5, 5);
+}
+
+footer {
+    text-align: center;
+}
